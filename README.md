@@ -1,6 +1,6 @@
 # Details
 
-see the jupyter notebook for details.
+See the jupyter notebook for the model. Dataset will be downloaded if the notebook file is ran.
 
 Note: contributions and improvements are welcome!
 
